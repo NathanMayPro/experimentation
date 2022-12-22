@@ -1,0 +1,3 @@
+# to put strin in file with touch in sh we can use
+
+touch requirements.txt && echo "yaml" > requirements.txt && cat requirements.txt
